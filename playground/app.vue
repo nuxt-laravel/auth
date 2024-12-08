@@ -1,5 +1,8 @@
 <template>
-  <div>
+  <div
+    class="bg-red"
+    @click="() => console.log('Hello, Nuxt module!')"
+  >
     Nuxt module playground!
   </div>
 </template>
