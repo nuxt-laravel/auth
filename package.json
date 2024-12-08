@@ -2,7 +2,7 @@
   "name": "@nuxt-laravel/auth",
   "version": "0.0.0",
   "description": "A Nuxt and Laravel lightweight authentication and authorization.",
-  "repository": "phojie/nuxt-laravel-auth",
+  "repository": "nuxt-laravel/auth",
   "author": "Phojie Rengel <phojrengel@gmail.com>",
   "license": "MIT",
   "type": "module",

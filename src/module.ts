@@ -5,7 +5,7 @@ export interface ModuleOptions {}
 
 export default defineNuxtModule<ModuleOptions>({
   meta: {
-    name: 'nuxt-laravel-auth',
+    name: '@nuxt-laravel/auth',
     configKey: 'myModule',
   },
   // Default configuration options of the Nuxt module

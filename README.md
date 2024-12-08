@@ -26,7 +26,7 @@ Whether you’re building a single-page application or a full-fledged web platfo
 Get started today and enhance your application’s security with ease!
 
 - [✨ &nbsp;Release Notes](/CHANGELOG.md)
-<!-- - [🏀 Online playground](https://stackblitz.com/github/your-org/nuxt-laravel-auth?file=playground%2Fapp.vue) -->
+<!-- - [🏀 Online playground](https://stackblitz.com/github/your-org/@nuxt-laravel/auth?file=playground%2Fapp.vue) -->
 <!-- - [📖 &nbsp;Documentation](https://example.com) -->
 
 
@@ -35,7 +35,7 @@ Get started today and enhance your application’s security with ease!
 Install the module to your Nuxt application with one command:
 
 ```bash
-npx nuxi module add nuxt-laravel-auth
+npx nuxi module add @nuxt-laravel/auth
 ```
 
 That's it! You can now use Nuxt + Laravel Authentication and Authorization in your Nuxt app ✨
@@ -74,14 +74,14 @@ That's it! You can now use Nuxt + Laravel Authentication and Authorization in yo
 
 
 <!-- Badges -->
-[npm-version-src]: https://img.shields.io/npm/v/nuxt-laravel-auth/latest.svg?style=flat&colorA=020420&colorB=00DC82
-[npm-version-href]: https://npmjs.com/package/nuxt-laravel-auth
+[npm-version-src]: https://img.shields.io/npm/v/@nuxt-laravel/auth/latest.svg?style=flat&colorA=020420&colorB=00DC82
+[npm-version-href]: https://npmjs.com/package/@nuxt-laravel/auth
 
-[npm-downloads-src]: https://img.shields.io/npm/dm/nuxt-laravel-auth.svg?style=flat&colorA=020420&colorB=00DC82
-[npm-downloads-href]: https://npm.chart.dev/nuxt-laravel-auth
+[npm-downloads-src]: https://img.shields.io/npm/dm/@nuxt-laravel/auth.svg?style=flat&colorA=020420&colorB=00DC82
+[npm-downloads-href]: https://npm.chart.dev/@nuxt-laravel/auth
 
-[license-src]: https://img.shields.io/npm/l/nuxt-laravel-auth.svg?style=flat&colorA=020420&colorB=00DC82
-[license-href]: https://npmjs.com/package/nuxt-laravel-auth
+[license-src]: https://img.shields.io/npm/l/@nuxt-laravel/auth.svg?style=flat&colorA=020420&colorB=00DC82
+[license-href]: https://npmjs.com/package/@nuxt-laravel/auth
 
 [nuxt-src]: https://img.shields.io/badge/Nuxt-020420?logo=nuxt.js
 [nuxt-href]: https://nuxt.com
