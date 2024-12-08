@@ -1,11 +1,14 @@
 import { defineNuxtModule, addPlugin, createResolver } from '@nuxt/kit'
 
 // Module options TypeScript interface definition
-export interface ModuleOptions {}
+export interface ModuleOptions {
+  authorization?: boolean
+  authentication?: boolean
+}
 
 export default defineNuxtModule<ModuleOptions>({
   meta: {
-    name: '@nuxt-laravel/auth',
+    name: 'nuxt-laravel-auth',
     configKey: 'myModule',
   },
   // Default configuration options of the Nuxt module
