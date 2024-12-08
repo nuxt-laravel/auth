@@ -1,7 +1,7 @@
-import MyModule from '../../../src/module'
+import nuxtLaravelAuth from '../../../src/module'
 
 export default defineNuxtConfig({
   modules: [
-    MyModule,
+    nuxtLaravelAuth,
   ],
 })
