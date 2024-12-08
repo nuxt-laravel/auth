@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-laravel-auth",
+  "name": "@nuxt-laravel/auth",
   "version": "0.0.0",
   "description": "A Nuxt and Laravel lightweight authentication and authorization.",
   "repository": "phojie/nuxt-laravel-auth",
